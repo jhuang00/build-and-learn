@@ -1,0 +1,7 @@
+---
+type: llm
+focus: trace
+weight: 1
+---
+
+The result matches this description: Claude starts from the big picture with a small architecture diagram of the static site whose boxes are labelled by category (HTML pages, shared CSS and tokens, a JavaScript file, images, static hosting on Vercel, an analytics service), and says where each part runs. In plain language it separates what matters (a static multi-page site with no build step, shared CSS, the behavior script) from trivia (config details, the analytics snippet), using map cards with category, tier and complexity, and a 'Words on the side' note for unfamiliar terms. It stays high level, does not quiz, and ends with 'you could ask next' suggestions.

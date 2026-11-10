@@ -1,0 +1,11 @@
+:root {
+  --color-bg: #faf8f5;
+  --color-ink: #1d1b19;
+  --color-accent: #3b6ef5;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-display: "Fraunces", Georgia, serif;
+  --space-2: 8px;
+  --space-4: 16px;
+  --space-8: 32px;
+  --radius: 12px;
+}

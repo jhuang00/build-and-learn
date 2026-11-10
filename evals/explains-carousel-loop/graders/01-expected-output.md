@@ -1,0 +1,7 @@
+---
+type: llm
+focus: trace
+weight: 1
+---
+
+The result matches this description: Claude explains in plain language suited to a non-coder: where the code sits and runs, a one-sentence purpose, the flow (cloning items for the seamless loop, the requestAnimationFrame loop, the pause flags), and map cards with a Category line (pattern, browser built-in, custom code) for the parts that matter, calling out trivia. It leads with what the code does, puts unfamiliar words in a short 'Words on the side' note, does not quiz the learner, does not rewrite the code, and ends with 'you could ask next' suggestions.

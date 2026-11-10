@@ -1,0 +1,7 @@
+---
+type: llm
+focus: trace
+weight: 1
+---
+
+The result matches this description: Claude leads with the cause and the fix in plain language: dialog.show() is not modal, so the browser does not close it on Escape, and the keydown listener on the dialog never fires once focus is outside the dialog; switching to showModal() fixes it and the listener can go. It names the categories involved, notes what already works, explains words like focus and modal in a short 'Words on the side' note, and does not edit the learner's file or hold the answer back behind hints. It ends with 'you could ask next' suggestions.
