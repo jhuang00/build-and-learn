@@ -44,10 +44,10 @@ The **Category** line is the part developers take for granted and newcomers miss
 **Claude Code**: copy the `build-and-learn` folder into `~/.claude/skills/` (for all your projects) or into `.claude/skills/` inside one project.
 
 ```bash
-git clone https://github.com/<owner>/build-and-learn ~/.claude/skills/build-and-learn
+git clone https://github.com/jhuang00/build-and-learn ~/.claude/skills/build-and-learn
 ```
 
-**Claude apps**: zip the folder (or use a packaged `.skill` file from the releases) and upload it in your skills settings.
+**Claude apps**: download `build-and-learn.skill` from the [latest release](https://github.com/jhuang00/build-and-learn/releases/latest), or zip the folder yourself, and upload it in your skills settings.
 
 ## Use
 
